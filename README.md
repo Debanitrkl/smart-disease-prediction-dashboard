@@ -11,5 +11,7 @@ All the anaysis are listed in the [link](https://www.kaggle.com/debabrata1234/co
 [covid tests in India](https://www.kaggle.com/debabrata1234/covid-19-case-study-analysis-viz-comparisons?scriptVersionId=31758801#Testing-Analysis)
 - [inida test comparison](https://www.kaggle.com/debabrata1234/covid-19-case-study-analysis-viz-comparisons?scriptVersionId=31758801#Analysis-of-Tests-done-in-India-and-Comparission-with-South-Korea)<br>
 
-**The prediction graph**
-[simulator](https://www.ascentcore.com/pages/pandemic.html)
+**The prediction graph**<br>
+[simulator](https://www.ascentcore.com/pages/pandemic.html)<br>
+
+[hosptals beds data](https://www.kaggle.com/vikassingh1996/indiafightscorona-covid-19-stage-ii#Age-Profile-Analysis:-Going-Against-Trend,-Most-Patients-In-India-Are-Millennials)- check for the numner of testing data and hospital beds<br>
