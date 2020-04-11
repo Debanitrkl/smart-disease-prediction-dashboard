@@ -1,0 +1,5 @@
+background: #1e1e2a
+figure-background: #28283c
+borders: #222333
+text: #77d1d6
+ticks: #82828e
